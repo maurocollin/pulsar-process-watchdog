@@ -1,2 +1,2 @@
 # pulsar-process-watchdog
-Monitora os programas da Pulsar que travam sem motivo aparente.
+Monitor de processos para aplicações Pulsar FTP e RDS, com logs e reinicialização automática.
