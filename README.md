@@ -8,15 +8,15 @@ Projetado para ambientes de produção, esse script garante que processos essenc
 
 ## 📌 ✨ Principais Funcionalidades
 
-✅ Monitoramento contínuo de múltiplos processos
-✅ Reinício automático de aplicações que pararam
-✅ Detecção de travamento (`Not Responding`) com tolerância a falso positivo
-✅ Estratégia de recuperação inteligente (individual → total)
-✅ Controle de múltiplas falhas por aplicação
-✅ Reinício completo da stack quando necessário
-✅ Sistema de logs persistentes para auditoria
-✅ Proteção contra múltiplas instâncias do watchdog
-✅ Preparado para execução como **Serviço do Windows**
+* ✅ Monitoramento contínuo de múltiplos processos
+* ✅ Reinício automático de aplicações que pararam
+* ✅ Detecção de travamento (`Not Responding`) com tolerância a falso positivo
+* ✅ Estratégia de recuperação inteligente (individual → total)
+* ✅ Controle de múltiplas falhas por aplicação
+* ✅ Reinício completo da stack quando necessário
+* ✅ Sistema de logs persistentes para auditoria
+* ✅ Proteção contra múltiplas instâncias do watchdog
+* ✅ Preparado para execução como **Serviço do Windows**
 
 ---
 
