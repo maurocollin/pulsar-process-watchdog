@@ -1,0 +1,2 @@
+# Ignorar logs que o script possa gerar futuramente
+*.log
